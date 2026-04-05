@@ -1,0 +1,2 @@
+# Wexer-Privacy
+Privacy Policy
